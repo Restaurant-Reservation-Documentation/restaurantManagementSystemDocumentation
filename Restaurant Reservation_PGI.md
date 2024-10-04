@@ -31,44 +31,32 @@ Creating a strong, easy-to-use and efficient restaurant booking system to enable
 
 ## Specific Objectives:
 
-1. Build a User Interface (UI): Construct an easy-to-understand, quick to respond and good-looking interface for customers. This will allow them to comfortably browse open slots, book those they prefer and supervise their bookings.
-   
-2. Put into Action Checking of Availability in Real-Time: It is necessary that the system gives updates about table availability instantly. This will help avoid overbooking and make the reservation process smoother.
-   
-3. Make Active Automated Approval and Alerts: Incorporate automated emails/SMS approvals and reminders for customers and staff. This will decrease missed appointments and enhance communication.
-   
-4. Make an Administrative Dashboard: Build a dashboard in the backend for restaurant managers. This will allow them to see, manage and analyze reservations. The features should include managing cancellations, understanding customer preferences and dealing with special requests.
-   
-5. Put in place Customer Data Management: Set up a system for safe storage of customer details such as previous reservation history, to facilitate service that's tailored to the individual.
-   
-6. Improve the Booking Algorithm: Create an algorithm which effectively assigns tables depending on party size, time slots and special needs. This will maximize restaurant capacity and customer happiness.
-    
-7. Integrate Payment: Allow customers to make payments for reservations if required.
-    
-8. The system should work on many devices like desktops, tablets, mobile phones and be compatible with main operating systems and internet browsers.
+|  |  |  |
+|--------|----------------|----------------|
+| 1      | Build a User Interface (UI) | Construct an easy-to-understand, quick to respond, and good-looking interface for customers. This will allow them to comfortably browse open slots, book those they prefer and supervise their bookings. |
+| 2      | Put into Action Checking of Availability in Real-Time | It is necessary that the system gives updates about table availability instantly. This will help avoid overbooking and make the reservation process smoother. |
+| 3      | Make Active Automated Approval and Alerts | Incorporate automated emails/SMS approvals and reminders for customers and staff. This will decrease missed appointments and enhance communication. |
+| 4      | Make an Administrative Dashboard | Build a dashboard in the backend for restaurant managers. This will allow them to see, manage and analyze reservations, including managing cancellations, understanding preferences, and dealing with special requests. |
+| 5      | Put in place Customer Data Management | Set up a system for safe storage of customer details such as previous reservation history, to facilitate service that's tailored to the individual. |
+| 6      | Improve the Booking Algorithm | Create an algorithm which effectively assigns tables depending on party size, time slots and special needs. This will maximize restaurant capacity and customer happiness. |
+| 7      | Integrate Payment | Allow customers to make payments for reservations if required. |
+| 8      | The system should work on many devices | It should be compatible with desktops, tablets, mobile phones, and main operating systems and internet browsers. |
 
 
 ## D. Business Benefits:
 
-1. Less Complex Booking: Using reservation system, customers can easily book their tables through the system, which lead to a greater number of reservations.
-
-2. Better Customer Experience: The experience of the customer is made more convenient, with automated confirmations and reminders. This can lead to the customer returning again in future times and suggesting your restaurant to others.
-
-3. Increased Revenue: Helps in maximizing the use of tables and reducing no-shows which results in increased earnings.
-
-4. Data Insights: Gives useful details about customer preferences and booking patterns, which can be used in making better decision making.
-
-5. Better Advertising: It would be simpler to provide special offers and loyalty rewards, which helps in getting more customers to come again.
-
-6. Improved Communication: Provides an easy way to communicate with customers regarding their bookings, particular needs, or alterations in the restaurant's rules.
-
-7. Real-Time Updates: We can update the reservations at once, like changes in party size or special requests. It helps to keep everything organized.
-
-8. Increased Visibility: Using an online reservation system, it makes your restaurant more visible because customers can locate and reserve a place in your restaurant via different platforms.
-
-9. Customer Feedback: Post-dining feedback, which can be done in certain systems, helps us see where changes are needed and improves the dining experience.
-
-10. Less Stress for Staff: When automating the reservation process, it allows the staff to put more effort into providing excellent service instead of handling bookings manually.
+|  | |  |
+|--------|----------------|----------------|
+| 1      | Less Complex Booking | Using a reservation system, customers can easily book their tables through the system, which leads to a greater number of reservations. |
+| 2      | Better Customer Experience | The experience of the customer is made more convenient, with automated confirmations and reminders. This can lead to the customer returning again in future times and suggesting your restaurant to others. |
+| 3      | Increased Revenue | Helps in maximizing the use of tables and reducing no-shows, which results in increased earnings. |
+| 4      | Data Insights | Gives useful details about customer preferences and booking patterns, which can be used in making better decision making. |
+| 5      | Better Advertising | It would be simpler to provide special offers and loyalty rewards, which helps in getting more customers to come again. |
+| 6      | Improved Communication | Provides an easy way to communicate with customers regarding their bookings, particular needs, or alterations in the restaurant's rules. |
+| 7      | Real-Time Updates | We can update the reservations at once, like changes in party size or special requests. It helps to keep everything organized. |
+| 8      | Increased Visibility | Using an online reservation system makes your restaurant more visible because customers can locate and reserve a place in your restaurant via different platforms. |
+| 9      | Customer Feedback | Post-dining feedback, which can be done in certain systems, helps us see where changes are needed and improves the dining experience. |
+| 10     | Less Stress for Staff | When automating the reservation process, it allows the staff to put more effort into providing excellent service instead of handling bookings manually. |
 
 
 ## E. Project Deliverables:
