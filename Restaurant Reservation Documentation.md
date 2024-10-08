@@ -190,6 +190,9 @@ report generation might be limited.
 |----------------|-----------------------------------------------------------------|---------------|------------|------------|
 | USER_INFO      | Unique identification of the table                              | String   | 255     | TABLE002   |
 | REFERENE_N0.   | unique alphanumeric code assigned to each transaction in GCash.|Interger | 255       | 123456789  |
+| TIMESTAMP      |	Date and time of the transaction	                               |DateTime	|N/A	   |2024-10-08 T12:34:56|
+| Mode_Of_Payment| QR code for GCash payment	                                      | String  | 255 | ![image](https://github.com/user-attachments/assets/37df5e7f-322f-4cd9-b7e0-628ff04c0067) |
+
 
 
 ---
