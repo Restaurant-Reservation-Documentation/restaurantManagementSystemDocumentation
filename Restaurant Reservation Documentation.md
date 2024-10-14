@@ -161,18 +161,21 @@ report generation might be limited.
 
 #### **Table 2: RESERVATION**
 
-| **FIELD NAME**        | **DESCRIPTION**                             | **DATA TYPE** | **LENGTH** | **SAMPLE**             |
-|-----------------------|---------------------------------------------|---------------|------------|------------------------|
-| RESERVATION_ID        | Unique identification of the reservation    | String        | 255        | Reserve12345           |
-| USER_ID               | ID of the customer making the reservation   | String        | 255        | USER123456             |
-| TABLE_ID              | ID of the reserved table                    | String        | 255        | TABLE002               |
-| STATUS                | Status of the reservation                   | String        | 50         | Confirmed / Cancelled  |
-| RESERVATION_DATE      | Date of the reservation                     | Date          |            | 2024-08-21             |
-| RESERVATION_TIME      | Time of the reservation                     | Time          |            | 6:00 pm                |
-| GUESTS                | Number of guests                            | Integer       |            | 4                      |
-| CREATED               | Date timestamp of reservation creation      | Date          |            | 2024-08-21 - 2:25 pm   |
+| **FIELD NAME**        | **DESCRIPTION**                                         | **DATA TYPE** | **LENGTH** | **SAMPLE**                   |
+|-----------------------|---------------------------------------------------------|---------------|------------|------------------------------|
+| RESERVATION_ID        | Unique identification of the reservation                | String        | 255        | Reserve12345                 |
+| USER_ID               | ID of the customer making the reservation               | String        | 255        | USER123456                   |
+| TABLE_ID              | ID of the reserved table                                | String        | 255        | TABLE002                     |
+| STATUS                | Status of the reservation                               | String        | 50         | Confirmed / Cancelled        |
+| RESERVATION_DATE      | Date of the reservation                                 | Date          |            | 2024-08-21                   |
+| RESERVATION_TIME      | Time of the reservation                                 | Time          |            | 6:00 pm                      |
+| GUESTS                | Number of guests                                        | Integer       |            | 4                            |
+| SPECIAL_REQUESTS      | Any special requests for the reservation                | String        | 255        | Wheelchair access, etc.      |
+| PARTY_SIZE            | Size of the party (small, medium, large) for better grouping | String   | 50         | Medium                       |
+| CREATED               | Date timestamp of reservation creation                  | Date          |            | 2024-08-21 - 2:25 pm         |
 
 ---
+
 
 #### **Table 3: TABLE**
 
