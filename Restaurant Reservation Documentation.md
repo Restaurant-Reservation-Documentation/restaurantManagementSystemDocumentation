@@ -216,10 +216,10 @@ report generation might be limited.
 ## ERD
 
 For Best View
-[https://www.canva.com/design/DAGOpYLp1fs/5ACVfuyI1XscCkCIyhPCZw/edit?utm_content=DAGOpYLp1fs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.figma.com/board/s2n0rJsW0DadPWtlJFZk2Q/ERD?node-id=0-1&t=u4BWNKafJU2iVRzb-1)
+[https://www.canva.com/design/DAGOpYLp1fs/5ACVfuyI1XscCkCIyhPCZw/edit?utm_content=DAGOpYLp1fs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.figma.com/board/s2n0rJsW0DadPWtlJFZk2Q/ERD?node-id=0-1&t=u4BWNKafJU2iVRzb)
 
 
-![Screenshot 2024-10-09 201248](https://github.com/user-attachments/assets/6e578b58-c59f-41e6-afe9-20a0968c643d)
+![Screenshot 2024-10-14 110651](https://github.com/user-attachments/assets/d1a04fe9-197e-4921-9781-119779d269f0)
 
 
 
