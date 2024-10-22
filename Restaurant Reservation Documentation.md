@@ -216,10 +216,11 @@ report generation might be limited.
 ## ERD
 
 For Best View
-[https://www.canva.com/design/DAGOpYLp1fs/5ACVfuyI1XscCkCIyhPCZw/edit?utm_content=DAGOpYLp1fs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.figma.com/board/s2n0rJsW0DadPWtlJFZk2Q/ERD?node-id=0-1&t=u4BWNKafJU2iVRzb)
+[https://lucid.app/lucidchart/ccfdba33-a66d-4b4b-be64-7d4f7dbb41e8/edit?viewport_loc=-1603%2C-286%2C2694%2C1087%2C0_0&invitationId=inv_f96fbd01-c72c-4e06-ac9b-7a959a5036ba]
 
 
-![Screenshot 2024-10-14 110651](https://github.com/user-attachments/assets/d1a04fe9-197e-4921-9781-119779d269f0)
+![Database ER diagram (crow's foot)](https://github.com/user-attachments/assets/069eeece-6c14-4915-a360-fba51c4a48cc)
+
 
 
 
