@@ -219,7 +219,8 @@ For Best View
 [https://lucid.app/lucidchart/ccfdba33-a66d-4b4b-be64-7d4f7dbb41e8/edit?viewport_loc=-1603%2C-286%2C2694%2C1087%2C0_0&invitationId=inv_f96fbd01-c72c-4e06-ac9b-7a959a5036ba]
 
 
-![Database ER diagram (crow's foot)](https://github.com/user-attachments/assets/069eeece-6c14-4915-a360-fba51c4a48cc)
+![Database ER diagram (crow's foot) (1)](https://github.com/user-attachments/assets/4502e2ef-c0dd-481f-bd21-f205565e3770)
+
 
 
 
